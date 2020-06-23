@@ -7,9 +7,9 @@ export default class Welcome extends Component {
               <Row>
                   <Col className="info">
 
-                  <h1> Hi, My name is Samuel</h1>
-                  <h2>a web developer</h2>
-                  <h3>here you have my portfolio, hope you find it cool ;)</h3>
+                  <h1 className="info"> Hi, My name is Samuel</h1>
+                  <h2 className="info">a web developer</h2>
+                  <h3 className="info">here you have my portfolio, hope you find it cool ;)</h3>
 
                   </Col>
               </Row>

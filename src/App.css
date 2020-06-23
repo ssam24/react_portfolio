@@ -28,6 +28,16 @@ App{
     margin-bottom: 25px;
 }
 @media screen and (max-width: 375px) {
+    .welcome{
+        justify-items: center;
+        justify-content: center;
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: oblique;
+        width: 100vw !important;
+        height: 40vh;
+        background-color: #DEE2FC;
+    }
     .welcome .info{
         justify-items: center;
         justify-content: center;
